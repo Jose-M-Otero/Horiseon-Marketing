@@ -30,8 +30,10 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
+Click on [Horiseon](https://jose-m-otero.github.io/Horiseon-Marketing/) to see live website.
+
 <p align="center">
-  <img alt="VS Code in action" src="https://github.com/Jose-M-Otero/urban-octo-telegram/blob/main/assets/images/screen-shot.png">
+  <img alt="VS Code in action" src="https://github.com/Jose-M-Otero/Horiseon-Marketing/blob/main/assets/images/screen-shot.png">
 </p>
 
 ## Credits
